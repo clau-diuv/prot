@@ -1,0 +1,576 @@
+13.06.2019, 20:41:38 : ******************** Start ********************
+
+13.06.2019, 20:41:47 : ********** pass_fail(prot_1.xlsm) **********
+
+13.06.2019, 20:41:47 : row 3, test BCR_BBS_Diag_flags, pass
+
+13.06.2019, 20:41:47 : row 4, test BCR_BBS_Diag_InterFlags, fail
+
+13.06.2019, 20:41:47 : ********** add_fail_test(BCR_BBS_Diag_InterFlags) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_InterFlags added to fail_tests dictionary
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_InterFlags, member = comment, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_InterFlags fail, start updates
+
+13.06.2019, 20:41:47 : Member comment of fail test BCR_BBS_Diag_InterFlags was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_InterFlags, member = CR, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_InterFlags fail, start updates
+
+13.06.2019, 20:41:47 : Member CR of fail test BCR_BBS_Diag_InterFlags was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_InterFlags, member = row, value = 4) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_InterFlags fail, start updates
+
+13.06.2019, 20:41:47 : Member row of fail test BCR_BBS_Diag_InterFlags was updated to 4
+
+13.06.2019, 20:41:47 : row 5, test BCR_BBS_Diag_IOCntrl, pass
+
+13.06.2019, 20:41:47 : row 6, test BCR_BBS_Diag_RetCntrl, fail
+
+13.06.2019, 20:41:47 : ********** add_fail_test(BCR_BBS_Diag_RetCntrl) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_RetCntrl added to fail_tests dictionary
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_RetCntrl, member = comment, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_RetCntrl fail, start updates
+
+13.06.2019, 20:41:47 : Member comment of fail test BCR_BBS_Diag_RetCntrl was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_RetCntrl, member = CR, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_RetCntrl fail, start updates
+
+13.06.2019, 20:41:47 : Member CR of fail test BCR_BBS_Diag_RetCntrl was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_RetCntrl, member = row, value = 6) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_RetCntrl fail, start updates
+
+13.06.2019, 20:41:47 : Member row of fail test BCR_BBS_Diag_RetCntrl was updated to 6
+
+13.06.2019, 20:41:47 : row 7, test BCR_BBS_Diag_ShorTerm, pass
+
+13.06.2019, 20:41:47 : row 8, test BCR_BBS_Diag_VehSpeed, fail
+
+13.06.2019, 20:41:47 : ********** add_fail_test(BCR_BBS_Diag_VehSpeed) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_VehSpeed added to fail_tests dictionary
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_VehSpeed, member = comment, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_VehSpeed fail, start updates
+
+13.06.2019, 20:41:47 : Member comment of fail test BCR_BBS_Diag_VehSpeed was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_VehSpeed, member = CR, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_VehSpeed fail, start updates
+
+13.06.2019, 20:41:47 : Member CR of fail test BCR_BBS_Diag_VehSpeed was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_Diag_VehSpeed, member = row, value = 8) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_Diag_VehSpeed fail, start updates
+
+13.06.2019, 20:41:47 : Member row of fail test BCR_BBS_Diag_VehSpeed was updated to 8
+
+13.06.2019, 20:41:47 : row 9, test BCR_BBS_AnalogSwitch, fail
+
+13.06.2019, 20:41:47 : ********** add_fail_test(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_AnalogSwitch added to fail_tests dictionary
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = comment, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member comment of fail test BCR_BBS_AnalogSwitch was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = CR, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member CR of fail test BCR_BBS_AnalogSwitch was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = row, value = 9) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member row of fail test BCR_BBS_AnalogSwitch was updated to 9
+
+13.06.2019, 20:41:47 : row 10, test BCR_BBS_GS_AnalogSignal, pass
+
+13.06.2019, 20:41:47 : row 11, test BCR_BBS_DigitalSwitch, fail
+
+13.06.2019, 20:41:47 : ********** add_fail_test(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_DigitalSwitch added to fail_tests dictionary
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = comment, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member comment of fail test BCR_BBS_DigitalSwitch was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = CR, value = None) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member CR of fail test BCR_BBS_DigitalSwitch was updated to None
+
+13.06.2019, 20:41:47 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = row, value = 11) **********
+
+13.06.2019, 20:41:47 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:47 : Member row of fail test BCR_BBS_DigitalSwitch was updated to 11
+
+13.06.2019, 20:41:49 : ********** pass_fail(prot_2.xlsm) **********
+
+13.06.2019, 20:41:49 : row 3, test BCR_BBS_AnalogSwitch, fail
+
+13.06.2019, 20:41:49 : ********** add_fail_test(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch added to fail_tests dictionary
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = comment, value = prot_2 comment, BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member comment of fail test BCR_BBS_AnalogSwitch was updated to prot_2 comment, BCR_BBS_AnalogSwitch
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = CR, value = prot_2 CR for BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member CR of fail test BCR_BBS_AnalogSwitch was updated to prot_2 CR for BCR_BBS_AnalogSwitch
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = row, value = 3) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member row of fail test BCR_BBS_AnalogSwitch was updated to 3
+
+13.06.2019, 20:41:49 : row 4, test BCR_BBS_GS_AnalogSignal, pass
+
+13.06.2019, 20:41:49 : row 5, test BCR_BBS_DigitalSwitch, fail
+
+13.06.2019, 20:41:49 : ********** add_fail_test(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_DigitalSwitch added to fail_tests dictionary
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = comment, value = prot_2 comment, BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member comment of fail test BCR_BBS_DigitalSwitch was updated to prot_2 comment, BCR_BBS_DigitalSwitch
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = CR, value = prot_2 CR for BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member CR of fail test BCR_BBS_DigitalSwitch was updated to prot_2 CR for BCR_BBS_DigitalSwitch
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = row, value = 5) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member row of fail test BCR_BBS_DigitalSwitch was updated to 5
+
+13.06.2019, 20:41:49 : test BCR_BBS_Diag_InterFlags fail only in current execution
+
+13.06.2019, 20:41:49 : test BCR_BBS_Diag_RetCntrl fail only in current execution
+
+13.06.2019, 20:41:49 : test BCR_BBS_Diag_VehSpeed fail only in current execution
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch fail in current execution and also in previous
+
+13.06.2019, 20:41:49 : ********** test_lines(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : ********** exist_test(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = startExecution, value = 11806) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member startExecution of fail test BCR_BBS_AnalogSwitch was updated to 11806
+
+13.06.2019, 20:41:49 : test execution of test BCR_BBS_AnalogSwitch started at row 11806
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = stopExecution, value = 14509) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member stopExecution of fail test BCR_BBS_AnalogSwitch was updated to 14509
+
+13.06.2019, 20:41:49 : test execution of test BCR_BBS_AnalogSwitch finished at row 14509
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch has #494 test steps
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_lines, value = 494) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_lines of fail test BCR_BBS_AnalogSwitch was updated to 494
+
+13.06.2019, 20:41:49 : ********** test_lines(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : ********** exist_test(BCR_BBS_AnalogSwitch) **********
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = startExecution, value = 48) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member startExecution of fail test BCR_BBS_AnalogSwitch was updated to 48
+
+13.06.2019, 20:41:49 : test execution of test BCR_BBS_AnalogSwitch started at row 48
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = stopExecution, value = 2751) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member stopExecution of fail test BCR_BBS_AnalogSwitch was updated to 2751
+
+13.06.2019, 20:41:49 : test execution of test BCR_BBS_AnalogSwitch finished at row 2751
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch has #494 test steps
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_lines, value = 494) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_lines of fail test BCR_BBS_AnalogSwitch was updated to 494
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch has the same number of lines in current and also in previous execution
+
+13.06.2019, 20:41:49 : ********** get_errors(test_name = BCR_BBS_AnalogSwitch, lineNoSTART_Execution = 11806, lineNoSTOP_Execution = 14509) **********
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 162 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 162) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 162
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 169 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 169) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 169
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 183 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 183) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 183
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 190 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 190) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 190
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 251 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 251) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 251
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 265 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 265) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 265
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 272 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 272) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 272
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 397 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 397) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 397
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 411 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 411) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 411
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 432 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 432) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 432
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_errors, value = 10) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_errors of fail test BCR_BBS_AnalogSwitch was updated to 10
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_lines_error, value = 10) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_lines_error of fail test BCR_BBS_AnalogSwitch was updated to 10
+
+13.06.2019, 20:41:49 : ********** get_errors(test_name = BCR_BBS_AnalogSwitch, lineNoSTART_Execution = 48, lineNoSTOP_Execution = 2751) **********
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 162 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 162) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 162
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 169 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 169) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 169
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 183 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 183) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 183
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 190 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 190) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 190
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 251 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 251) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 251
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 265 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 265) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 265
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 272 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 272) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 272
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 397 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 397) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 397
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 411 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 411) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 411
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch, la randul 432 am gasit ERROR!!!
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = error_line, value = 432) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member error_line of fail test BCR_BBS_AnalogSwitch was updated to 432
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_errors, value = 10) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_errors of fail test BCR_BBS_AnalogSwitch was updated to 10
+
+13.06.2019, 20:41:49 : ********** update_fail_tests(testname = BCR_BBS_AnalogSwitch, member = total_lines_error, value = 10) **********
+
+13.06.2019, 20:41:49 : Test BCR_BBS_AnalogSwitch fail, start updates
+
+13.06.2019, 20:41:49 : Member total_lines_error of fail test BCR_BBS_AnalogSwitch was updated to 10
+
+13.06.2019, 20:41:49 : test BCR_BBS_AnalogSwitch has the same number of lines with error in current and also in previous execution
+
+13.06.2019, 20:41:49 : test BCR_BBS_DigitalSwitch fail in current execution and also in previous
+
+13.06.2019, 20:41:49 : ********** test_lines(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:49 : ********** exist_test(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = startExecution, value = 14620) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member startExecution of fail test BCR_BBS_DigitalSwitch was updated to 14620
+
+13.06.2019, 20:41:50 : test execution of test BCR_BBS_DigitalSwitch started at row 14620
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = stopExecution, value = 15819) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member stopExecution of fail test BCR_BBS_DigitalSwitch was updated to 15819
+
+13.06.2019, 20:41:50 : test execution of test BCR_BBS_DigitalSwitch finished at row 15819
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch has #198 test steps
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_lines, value = 198) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_lines of fail test BCR_BBS_DigitalSwitch was updated to 198
+
+13.06.2019, 20:41:50 : ********** test_lines(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:50 : ********** exist_test(BCR_BBS_DigitalSwitch) **********
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = startExecution, value = 2862) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member startExecution of fail test BCR_BBS_DigitalSwitch was updated to 2862
+
+13.06.2019, 20:41:50 : test execution of test BCR_BBS_DigitalSwitch started at row 2862
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = stopExecution, value = 4061) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member stopExecution of fail test BCR_BBS_DigitalSwitch was updated to 4061
+
+13.06.2019, 20:41:50 : test execution of test BCR_BBS_DigitalSwitch finished at row 4061
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch has #198 test steps
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_lines, value = 198) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_lines of fail test BCR_BBS_DigitalSwitch was updated to 198
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch has the same number of lines in current and also in previous execution
+
+13.06.2019, 20:41:50 : ********** get_errors(test_name = BCR_BBS_DigitalSwitch, lineNoSTART_Execution = 14620, lineNoSTOP_Execution = 15819) **********
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch, la randul 66 am gasit ERROR!!!
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = error_line, value = 66) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member error_line of fail test BCR_BBS_DigitalSwitch was updated to 66
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch, la randul 76 am gasit ERROR!!!
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = error_line, value = 76) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member error_line of fail test BCR_BBS_DigitalSwitch was updated to 76
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_errors, value = 2) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_errors of fail test BCR_BBS_DigitalSwitch was updated to 2
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_lines_error, value = 2) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_lines_error of fail test BCR_BBS_DigitalSwitch was updated to 2
+
+13.06.2019, 20:41:50 : ********** get_errors(test_name = BCR_BBS_DigitalSwitch, lineNoSTART_Execution = 2862, lineNoSTOP_Execution = 4061) **********
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch, la randul 66 am gasit ERROR!!!
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = error_line, value = 66) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member error_line of fail test BCR_BBS_DigitalSwitch was updated to 66
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch, la randul 76 am gasit ERROR!!!
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = error_line, value = 76) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member error_line of fail test BCR_BBS_DigitalSwitch was updated to 76
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_errors, value = 2) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_errors of fail test BCR_BBS_DigitalSwitch was updated to 2
+
+13.06.2019, 20:41:50 : ********** update_fail_tests(testname = BCR_BBS_DigitalSwitch, member = total_lines_error, value = 2) **********
+
+13.06.2019, 20:41:50 : Test BCR_BBS_DigitalSwitch fail, start updates
+
+13.06.2019, 20:41:50 : Member total_lines_error of fail test BCR_BBS_DigitalSwitch was updated to 2
+
+13.06.2019, 20:41:50 : test BCR_BBS_DigitalSwitch has the same number of lines with error in current and also in previous execution
+
+13.06.2019, 20:41:50 : ********** save_file(prot_1.xlsm) **********
+
+13.06.2019, 20:41:50 : Saving file prot_1_1.xlsm
+
+13.06.2019, 20:42:04 : file prot_1.xlsm was saved as prot_1_13_06_2019_20_42_04.xlsm
+
+13.06.2019, 20:42:04 : ********** save_file(prot_2.xlsm) **********
+
+13.06.2019, 20:42:04 : Saving file prot_2_1.xlsm
+
+13.06.2019, 20:42:06 : file prot_2.xlsm was saved as prot_2_13_06_2019_20_42_06.xlsm
+
+13.06.2019, 20:42:06 : ******************** End ********************
+
